@@ -1,0 +1,12 @@
+#todo-list{
+    text-align: center;
+}
+#task-container{
+    width: 50%;
+    background-color: coral;
+    min-height: 50vh;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
